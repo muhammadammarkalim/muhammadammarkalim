@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/muhammadammarkalim/muhammadammarkalim/main/banner.svg" alt="Muhammad Ammar Kalim Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadammarkalim/muhammadammarkalim/main/banner.png" alt="Muhammad Ammar Kalim Banner" width="100%"/>
 </p>
 
 ---
@@ -10,7 +10,8 @@ I am a passionate Full Stack Web Developer and an aspiring Cybersecurity enthusi
 
 - 🚀 Currently focused on **Full Stack Development** with **.NET & Blazor**.
 - 🔐 Deeply interested in **Cybersecurity** and secure coding practices.
-- 🛠️ Strong background in Data Structures and Algorithms (**DSA**).
+- 🧠 Strong background in **Data Structures and Algorithms (DSA)**.
+- 💡 Love solving complex problems through clean, efficient code.
 - 📫 How to reach me: **muhammadammarkalim@gmail.com**
 
 ---
