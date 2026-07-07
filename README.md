@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/muhammadammarkalim/muhammadammarkalim/main/banner.png" alt="Muhammad Ammar Kalim Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadammarkalim/muhammadammarkalim/main/github_profile_banner_v2.png" alt="Muhammad Ammar Kalim Banner" width="100%"/>
 </p>
 
 ---
